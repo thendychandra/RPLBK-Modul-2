@@ -6,7 +6,7 @@ import App from './App';
 import CardList from "./components/CardList";
 import Quotes from "./components/Quotes";
 
-import Gambar from "./assets/images/logo-volta.png";
+import Gambar from "./assets/images/bg.jpg";
 
 const quotes = "Disaat payung teduh ku dengar , disitu lah tugas-tugas terbabat abis";
 
